@@ -30,59 +30,36 @@
 - 📚 Always improving skills in **C, C++, Java, Python, and Web Tech**  
 - ⚡ Fun fact: I debug more than I code 😅
 
-  ---
 
 ---
 
 ### 🛠️ Tech Stack  
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/><br/>C
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/><br/>C++
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/><br/>Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/><br/>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/><br/>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/><br/>CSS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/><br/>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=canva" height="50" alt="Canva"/><br/>Canva
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/><br/>GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/><br/>MySQL
-    </td>
-    <td align="center">
-      <!-- Empty space for balance -->
-    </td>
-  </tr>
-</table>
-
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>  
-  <br/>MySQL
+#### 🔹 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="C"/>  
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>  
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>  
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/>  
 </p>
+
+#### 🔹 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML"/>  
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS"/>  
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>  
+  <img src="https://skillicons.dev/icons?i=canva" height="55" alt="Canva"/>  
+</p>
+
+#### 🔹 Tools & Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>  
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>  
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>  
+</p>
+
+
+
+
 
 

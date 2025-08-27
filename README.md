@@ -1,6 +1,6 @@
 # super-duper
 
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm Trushna Bankar</h1>
 <h3 align="center">Diploma Student | Python & C++ Enthusiast</h3>
 
 <p align="center">
@@ -18,13 +18,16 @@
   </a>
 </p>
 
-## About Me  
+---
 
-📌 Diploma Student in Information Technology  
-🔍 Exploring Python, C, and C++ for problem-solving  
-⚡ Interested in Data Structures, Algorithms & real-world projects  
-🎯 Focused on building a strong foundation in software development  
+## 👩‍🎓 About Me  
 
+- 📌 Diploma Student in Information Technology  
+- 🔍 Exploring Python, C, and C++ for problem-solving  
+- ⚡ Interested in Data Structures, Algorithms & real-world projects  
+- 🎯 Focused on building a strong foundation in software development  
+
+---
 
 ## 🛠️ Tech Stack  
 
@@ -77,13 +80,11 @@
   </table>
 </p>
 
-  </table>
-</p>
+---
 
 ## 📌 Projects Showcase  
 
 <p align="left">
-  
   <a href="https://github.com/trushna-888/synaphack-project">
     <img src="https://img.shields.io/badge/Synaphack%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
@@ -112,19 +113,17 @@
     <img src="https://img.shields.io/badge/Web%20Application-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>  
   <br>Basic web application using HTML and beginner-level design.  
-  <br><br> 
-
 </p>
-
 
 ---
 
-## 📊 Updated GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trushna-888&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
+---
 
 ## 🏅 Special Achievements  
 
@@ -133,13 +132,13 @@
 | **Pull Shark** 🦈 | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/> |
 | **Quickdraw** 🏹 | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/> |
 
+---
 
-### 📬 Connect With Me
-
-- 📧 Email: 
-- 🌐 Portfolio: 
-- 🔗 GitHub: 
-- 💼 LinkedIn: 
+### 📬 Connect With Me - 
+📧 Email: [bankartrushna@gmail.com](mailto:bankartrushna@gmail.com) 
+🌐 Portfolio: [-](unavailable) 
+🔗 GitHub: [trushna-888](https://github.com/trushna-888) 
+💼 LinkedIn: [-](unavailable)
 
 <p align="center">
   <a href="mailto:bankartrushna@gmail.com">
@@ -161,13 +160,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-
-
-
-
-
-
-
-
-

@@ -132,6 +132,14 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
 </p>
 
+## 🏅 Special Achievements  
+
+| Achievement | Badge |
+|-------------|-------|
+| **Pull Shark** 🦈 | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/> |
+| **Quickdraw** 🏹 | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/> |
+
+
 
 
 

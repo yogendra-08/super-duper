@@ -25,52 +25,58 @@
 ⚡ Interested in Data Structures, Algorithms & real-world projects  
 🎯 Focused on building a strong foundation in software development  
 
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br><b>C</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br><b>C++</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br><b>Python</b>
       </td>
-      <td align="center" width="120">
+    </tr>
+    <tr>
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br><b>HTML</b>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br><b>CSS</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><b>JavaScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><b>MySQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><b>Java</b>
       </td>
     </tr>
     <tr>
-      <td align="center" width="120">
+      <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><b>MySQL</b>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><b>Java</b>
+      </td>
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br><b>Flask</b>
       </td>
-      <td align="center" width="120">
+    </tr>
+    <tr>
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br><b>Django</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><b>Git</b>
       </td>
-      <td align="center" width="120">
+      <td align="center" width="130">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br><b>GitHub</b>
       </td>
     </tr>
+  </table>
+</p>
+
   </table>
 </p>
 

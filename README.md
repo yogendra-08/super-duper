@@ -116,6 +116,26 @@
 
 </p>
 
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trushna-888&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📊 Updated GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trushna-888&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trushna-888&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trushna-888&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+
 
 
 

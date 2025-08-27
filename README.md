@@ -80,5 +80,16 @@
   </table>
 </p>
 
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="40"/><br><b>C</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/><br><b>C++</b>
+</td>
+<td align="center" width="130">
+  <img src="https://img.icons8.com/color/48/python.png" width="40"/><br><b>Python</b>
+</td>
+
+
 
 

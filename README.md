@@ -59,6 +59,35 @@
 </p>
 
 
+---
+
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge"/>
+</p>
+
+<p align="center">
+  <b>🐙 Pull Shark</b> <br/>
+  Awarded for merging pull requests and contributing to open-source projects 💻
+</p>
+
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+
+---
+
+
+
+
+
 
 
 

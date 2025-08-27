@@ -80,6 +80,48 @@
   </table>
 </p>
 
+## 📌 Projects Showcase  
+
+<p align="center">
+  
+  <a href="https://github.com/trushna-888/synaphack-project">
+    <img src="https://img.shields.io/badge/Synaphack%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+  <br>Hackathon project built with teamwork and problem-solving.  
+  <br><br>
+  
+  <a href="https://github.com/trushna-888/cpp-fibonacci-factorial">
+    <img src="https://img.shields.io/badge/CPP%20Fibonacci%20%26%20Factorial-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>  
+  <br>Mini project in C++ to generate Fibonacci series and factorial.  
+  <br><br>
+  
+  <a href="https://github.com/trushna-888/todo-list-c">
+    <img src="https://img.shields.io/badge/To--Do%20List%20(C)-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  </a>  
+  <br>Command-line To-Do list app using C and file handling.  
+  <br><br>
+  
+  <a href="https://github.com/trushna-888/python-calculator">
+    <img src="https://img.shields.io/badge/Python%20Calculator-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>  
+  <br>Simple Python calculator performing basic arithmetic operations.  
+  <br><br>
+  
+  <a href="https://github.com/trushna-888/web-application">
+    <img src="https://img.shields.io/badge/Web%20Application-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>  
+  <br>Basic web application using HTML and beginner-level design.  
+  <br><br>
+  
+  <a href="https://github.com/trushna-888/trushna-888">
+    <img src="https://img.shields.io/badge/Profile%20Config-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+  <br>Custom GitHub Profile configuration and setup.  
+
+</p>
+
+
 
 
 

@@ -18,5 +18,11 @@
   </a>
 </p>
 
+## About Me  
+
+📌 Diploma Student in Information Technology  
+🔍 Exploring Python, C, and C++ for problem-solving  
+⚡ Interested in Data Structures, Algorithms & real-world projects  
+🎯 Focused on building a strong foundation in software development  
 
 

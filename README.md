@@ -134,7 +134,12 @@
 | **Quickdraw** 🏹 | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/> |
 
 
-## 📬 Contact Me  
+### 📬 Connect With Me
+
+- 📧 Email: 
+- 🌐 Portfolio: 
+- 🔗 GitHub: 
+- 💼 LinkedIn: 
 
 <p align="center">
   <a href="mailto:bankartrushna@gmail.com">

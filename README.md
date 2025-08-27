@@ -134,6 +134,32 @@
 | **Quickdraw** 🏹 | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/> |
 
 
+## 📬 Contact Me  
+
+<p align="center">
+  <a href="mailto:bankartrushna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/trushna-bankar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/trushna-888" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+
+
+
 
 
 

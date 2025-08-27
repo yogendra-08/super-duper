@@ -116,11 +116,6 @@
 
 </p>
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trushna-888&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
 
 ---
 

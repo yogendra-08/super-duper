@@ -134,11 +134,13 @@
 
 ---
 
-### 📬 Connect With Me - 
-📧 Email: [bankartrushna@gmail.com](mailto:bankartrushna@gmail.com) 
-🌐 Portfolio: [-](unavailable) 
-🔗 GitHub: [trushna-888](https://github.com/trushna-888) 
-💼 LinkedIn: [-](unavailable)
+### 📬 Connect With Me  
+
+- 📧 **Email:** [bankartrushna@gmail.com](mailto:bankartrushna@gmail.com)  
+- 🌐 **Portfolio:** *Coming Soon*  
+- 🔗 **GitHub:** [trushna-888](https://github.com/trushna-888)  
+- 💼 **LinkedIn:** *Coming Soon*  
+
 
 <p align="center">
   <a href="mailto:bankartrushna@gmail.com">

@@ -82,7 +82,7 @@
 
 ## 📌 Projects Showcase  
 
-<p align="center">
+<p align="left">
   
   <a href="https://github.com/trushna-888/synaphack-project">
     <img src="https://img.shields.io/badge/Synaphack%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -112,12 +112,7 @@
     <img src="https://img.shields.io/badge/Web%20Application-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>  
   <br>Basic web application using HTML and beginner-level design.  
-  <br><br>
-  
-  <a href="https://github.com/trushna-888/trushna-888">
-    <img src="https://img.shields.io/badge/Profile%20Config-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-  <br>Custom GitHub Profile configuration and setup.  
+  <br><br> 
 
 </p>
 

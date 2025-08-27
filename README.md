@@ -18,18 +18,5 @@
   </a>
 </p>
 
-<div align="center">
 
-# 🌸 Trushna Bankar  
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4B8B&center=true&vCenter=true&width=435&lines=Diploma+Student;Python+%26+C%2B%2B+Enthusiast;Tech+Explorer+%7C+Problem+Solver" />
-
----
-
-[![Email](https://img.icons8.com/fluency/40/gmail-new.png)](mailto:bankartrushna@gmail.com)
-[![GitHub](https://img.icons8.com/ios-glyphs/40/github.png)](https://github.com/trushna-888)
-[![LinkedIn](https://img.icons8.com/color/40/linkedin.png)](https://linkedin.com/in/your-linkedin-id)
-[![Portfolio](https://img.icons8.com/external-flat-juicy-fish/40/external-website-web-ui-flat-flat-juicy-fish.png)](https://your-portfolio-link.com)
-
-</div>
 

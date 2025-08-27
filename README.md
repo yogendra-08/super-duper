@@ -125,12 +125,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trushna-888&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
-## 🏅 Special Achievements  
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
-</p>
 
 ## 🏅 Special Achievements  
 

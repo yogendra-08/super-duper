@@ -185,21 +185,6 @@
 
 ## 19 PR done 
 
-## 🏆 GitHub Stats & Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogendra-08&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogendra-08&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yogendra-08&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-08&layout=compact&theme=radical" alt="Top languages" />
 </p>
 

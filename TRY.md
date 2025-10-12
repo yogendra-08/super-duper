@@ -45,3 +45,8 @@
   </tr>
 </table>
 
+<<<<<<< Updated upstream
+=======
+i want level 2 of badge so i do this 2 
+adding 3rd 
+>>>>>>> Stashed changes

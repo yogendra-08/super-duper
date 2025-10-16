@@ -1,4 +1,4 @@
-![Banner](https://github.com/yogendra-08/super-duper/blob/main/HER.png?raw=true)
+![Banner](https://github.com/yogendra-08/super-duper/blob/main/soundarya.png?raw=true)
 
 <p align="center">
   <a href="mailto:soundaryagawande12@gmail.com">

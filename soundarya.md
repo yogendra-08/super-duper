@@ -12,4 +12,68 @@
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Special Achievements  
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100"/><br/>
+        <b>Pair Extraordinaire</b>
+      </td>
+      <td align="center" width="150">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100"/><br/>
+        <b>Galaxy Brain</b>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="left"><i>🚀 My GitHub Badge Collection 🚀</i></p>
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 🔹 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="C"/>  
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>  
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/>  
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/>  
+</p>
+
+#### 🔹 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML"/>  
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS"/>  
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="typescript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="55" alt="tailwindcss"/> 
+  <img src="https://skillicons.dev/icons?i=riplit" height="55" alt="riplit"/>  
+  <img src="https://skillicons.dev/icons?i=canva" height="55" alt="Canva"/>  
+</p>
+
+#### 🔹 Tools & Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>  
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>  
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="vercel"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="55" alt="netlify"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="55" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="figma"/>  
+</p>
+
+---
+
+## 📊 GitHub Stats
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soundarya290405&theme=tokyonight" alt="streak" />
+</p>
+
+
 

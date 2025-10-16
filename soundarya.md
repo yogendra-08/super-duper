@@ -75,5 +75,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soundarya290405&theme=tokyonight" alt="streak" />
 </p>
 
+---
+
+
+### 📬 Connect With Me
+
+- 📧 Email: [Soundaryagawand12@gmail.com](mailto:soundaryagawande12@gmail.com)  
+- 🌐 Portfolio: [https://ssoundarya-portfolio.netlify.app](https://ssoundarya-portfolio.netlify.app)  
+- 🔗 GitHub: [Soundarya290405](https://github.com/Soundarya290405)  
+- 💼 LinkedIn: 
+
+---
+
+
+### 🏢 My Organization
+
+💻 I'm also a contributor at **[Error-labs7](https://github.com/Error-labs7)**
+
+---
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+--- 
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>  
 
 

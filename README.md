@@ -69,16 +69,7 @@
 ---
 
 
-### 🏆 GitHub Achievements  
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge"/>
-</p>
-
-<p align="center">
-  <b>🐙 Pull Shark</b> <br/>
-  Awarded for merging pull requests and contributing to open-source projects 💻
-</p>
 
 
 ---
@@ -178,18 +169,5 @@
 
 ---
 
-### 💡 Random Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-
-## 22 PR done 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-08&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
 
 

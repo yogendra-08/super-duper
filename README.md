@@ -1,12 +1,22 @@
 ## 🌠 My Achievements Universe
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="100" style="border-radius:50%; box-shadow:0 0 25px gold; margin:10px;"/><br>
-  <b>Galaxy Brain (Gold)</b>
-  <br><br>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="70" style="margin:8px;"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="70" style="margin:8px;"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" style="margin:8px;"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70" style="margin:8px;"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" style="margin:8px;"/>
+
+<table>
+  <tr>
+    <td align="center" style="padding:15px;">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="140" style="border-radius:20px; box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
+      <br><b>Pair Extraordinaire</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="140" style="border-radius:20px; box-shadow:0 0 25px rgba(138,43,226,0.4);"/>
+      <br><b>Galaxy Brain</b>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="140" style="border-radius:20px; box-shadow:0 0 25px rgba(205,127,50,0.5);"/>
+      <br><b>Galaxy Brain (Bronze)</b>
+    </td>
+  </tr>
+</table>
+
 </div>

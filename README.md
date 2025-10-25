@@ -1,26 +1,55 @@
-## 🌠 My Achievements Universe
+🌌 1. Galactic Gradient Flow (Stylish & Eye-Catching)
+## 🌠 Galactic Mindset
+
+> *A journey through innovation, collaboration, and endless curiosity.*
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="100" style="border-radius:20px; box-shadow:0 0 25px rgba(0,255,255,0.4);"/>
-      <br><b>Pair Extraordinaire</b>
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="100" style="border-radius:20px; box-shadow:0 0 25px rgba(138,43,226,0.4);"/>
-      <br><b>Galaxy Brain</b>
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="100" style="border-radius:20px; box-shadow:0 0 25px rgba(205,127,50,0.5);"/>
-      <br><b>Galaxy Brain (Bronze)</b>
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="100" style="border-radius:20px; box-shadow:0 0 25px rgba(205,127,50,0.5);"/>
-      <br><b>Galaxy Brain (Silver)</b>
-    </td>
-  </tr>
-</table>
+🧠 **Pair Extraordinary**  
+![Pair Extraordinary](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinary-default.png)  
+
+🌌 **Galaxy Brain – Default**  
+![Galaxy Brain Default](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)  
+
+☄️ **Galaxy Brain – Bronze**  
+![Galaxy Brain Bronze](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png)  
+
+✨ **Galaxy Brain – Silver**  
+![Galaxy Brain Silver](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png)  
 
 </div>
+
+> *"Great minds don’t compete — they co-create galaxies."*
+
+🧩 2. Horizontal Neon Ribbon (Modern Banner Style)
+## ⚡ Mind Expansion Series  
+
+<div align="center">
+
+💠 ![Pair Extraordinary](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinary-default.png)  
+💭 ![Galaxy Brain Default](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)  
+🔥 ![Galaxy Brain Bronze](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png)  
+🌠 ![Galaxy Brain Silver](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png)
+
+</div>
+
+> *"From ideas to infinity — a cosmic evolution of thought."*
+
+🧠 3. Galaxy Scroll (Storytelling Format – Most Unique)
+## 🧠 The Galaxy Scroll  
+
+> 🌟 **Pair Extraordinary** – where collaboration began.  
+> 🌌 **Galaxy Brain (Default)** – ideas took flight.  
+> 🥉 **Galaxy Brain (Bronze)** – thoughts aligned with logic.  
+> 🥈 **Galaxy Brain (Silver)** – a constellation of knowledge.  
+
+<div align="center">
+
+![Pair Extraordinary](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinary-default.png)
+![Galaxy Brain Default](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
+![Galaxy Brain Bronze](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png)
+![Galaxy Brain Silver](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png)
+
+</div>
+
+> *Every badge tells a story — and every story begins with code.*

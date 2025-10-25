@@ -1,21 +1,14 @@
-## 🧬 Neural Pulse: *Badges of the Mind*
+## 🌠 The Galactic Evolution
 
-> *Each badge is a neuron — firing brilliance across the GitHub galaxy.*
+> *From collaboration sparks to silver synapses.*
 
 <div align="center">
 
-🩵 `Pair Extraordinary`  
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinary-default.png" width="120"/>
-
-🧠 `Galaxy Brain (Default)`  
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="120"/>
-
-🥉 `Galaxy Brain (Bronze)`  
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="120"/>
-
-🥈 `Galaxy Brain (Silver)`  
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="120"/>
+🌱 **Born to Collaborate** → ![Pair Extraordinary](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinary-default.png)  
+💭 **Ideas Ignite** → ![Galaxy Brain Default](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)  
+🔥 **Logic Expands** → ![Galaxy Brain Bronze](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png)  
+💫 **Wisdom Achieved** → ![Galaxy Brain Silver](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png)
 
 </div>
 
-> *⚡ Neural energy, creative synergy, and galactic mastery.*
+> *“Each badge a constellation — each idea a star.”*

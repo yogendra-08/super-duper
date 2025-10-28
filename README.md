@@ -12,3 +12,13 @@
   <b>Milestones Unlocked!</b><br>
   <i>Leveling up my open-source game, one badge at a time ✨</i>
 </p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/sponsor-default.png" width="90" alt="Sponsor Badge" title="GitHub Sponsor Achievement" />
+</p>
+
+<p align="center">
+  <b>GitHub Sponsor</b><br>
+  <i>Proud to support and empower the open-source community! 💖</i>
+</p>
+

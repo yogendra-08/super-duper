@@ -40,8 +40,7 @@
 
   <!-- Quickdraw -->
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" alt="Quickdraw" title="Quickdraw" />
-
-  <!-- YOLO -->
+ <!-- YOLO -->
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" alt="YOLO" title="YOLO" />
 
 </p>

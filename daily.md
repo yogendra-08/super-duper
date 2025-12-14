@@ -3,3 +3,4 @@ its a day 2 of daily commit
 just try to maintain the strike 
 correct the spell of streak 
 last commit of the day and day 2 done succesfuuly 
+day 3 

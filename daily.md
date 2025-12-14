@@ -6,3 +6,4 @@ last commit of the day and day 2 done succesfuuly
 day 3 
 due to paper 
 force to do this type of shit 
+once the exam done then open to personal work 

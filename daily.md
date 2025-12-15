@@ -8,3 +8,4 @@ due to paper
 force to do this type of shit 
 once the exam done then open to personal work 
 its a day 3 
+i am hust waiting to over of exam 

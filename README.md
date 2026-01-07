@@ -52,6 +52,7 @@
 
     next task to present all in my readme 
     from this repo to readme 
+    day one and one day 
     DREAM TO ADD ALL THIS IN PROFILE
   </i>
 </p>

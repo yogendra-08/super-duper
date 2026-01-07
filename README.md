@@ -51,6 +51,7 @@
   <i>
 
     next task to present all in my readme 
+    from this repo to readme 
     DREAM TO ADD ALL THIS IN PROFILE
   </i>
 </p>

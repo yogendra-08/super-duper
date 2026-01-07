@@ -49,6 +49,8 @@
   <b>Leveling up on GitHub!</b><br />
   <i>Every badge tells a chapter of my open-source adventures 🚀</i>
   <i>
+
+    next task to present all in my readme 
     DREAM TO ADD ALL THIS IN PROFILE
   </i>
 </p>
